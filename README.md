@@ -1,3 +1,7 @@
+<a href="https://www.sparkpost.com"><img src="https://www.sparkpost.com/sites/default/files/attachments/SparkPost_Logo_2-Color_Gray-Orange_RGB.svg" width="200px"/></a>
+
+[Sign up][sparkpost sign up] for a SparkPost account and visit our [Developer Hub](https://developers.sparkpost.com) for even more content.
+
 # SparkPost C# Webhooks Sample
 
 This project contains a .NET Core service that consumes and processes [SparkPost webhooks](https://developers.sparkpost.com/api/webhooks.html).
@@ -7,7 +11,7 @@ This project contains a .NET Core service that consumes and processes [SparkPost
 
 ## Prerequisites
 
-* A shiny new SparkPost Account - [sign up](https://app.sparkpost.com/)
+* A shiny new SparkPost Account - [sign up](sparkpost sign up)
 * .NET Core Runtime 2.0 ([Download](https://dot.net/core))
 * [Visual Studio Code](https://code.visualstudio.com/) or [Visual Studio 2017](https://www.visualstudio.com/)
 
@@ -38,3 +42,5 @@ When you send email through your SparkPost account, your webhook service will pe
 
 * [SparkPost Webhooks Guide](https://www.sparkpost.com/blog/webhooks-beyond-the-basics/)
 * [SparkPost API reference on webhooks](https://developers.sparkpost.com/api/webhooks.html)
+
+[sparkpost sign up]: https://app.sparkpost.com/join?plan=free-0817?src=Social%20Media&sfdcid=70160000000pqBb&pc=GitHubSignUp&utm_source=github&utm_medium=social-media&utm_campaign=github&utm_content=sign-up
